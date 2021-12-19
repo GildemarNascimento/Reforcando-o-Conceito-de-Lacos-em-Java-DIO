@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="caracteristicas-da-linguagem-java-2/src/main/java"/>
+	<classpathentry kind="src" path="caracteristicas-da-linguagem-java/src/main/java"/>
+	<classpathentry kind="src" path="cities-api-full-ci-cd/src/main/java"/>
+	<classpathentry kind="src" path="cities-api-full-ci-cd/src/test/java"/>
+	<classpathentry kind="src" path="cities-api-nearby-service/src/main/java"/>
+	<classpathentry kind="src" path="cities-api-nearby-service/src/test/java"/>
+	<classpathentry kind="src" path="cities-api/src/main/java"/>
+	<classpathentry kind="src" path="cities-api/src/test/java"/>
+	<classpathentry kind="src" path="debug-de-codigo/src/main/java"/>
+	<classpathentry kind="lib" path="caracteristicas-da-linguagem-java-2/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="caracteristicas-da-linguagem-java/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="cities-api-full-ci-cd/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="cities-api-nearby-service/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="cities-api/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="debug-de-codigo/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
